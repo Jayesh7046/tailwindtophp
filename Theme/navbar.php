@@ -22,10 +22,8 @@
             </div>
 
             <!-- Button -->
-            <a href="#"
-                class="hidden md:block p-3 px-6 pt-2 text-white bg-orange-600 rounded-full baseline hover:bg-orange-400">
-                Get Started
-            </a>
+
+            <?php include_once("./shorting of data/button.php"); ?>
 
             <!-- Hamburger Icon -->
             <button id="menu-button" class="block hamburger md:hidden focus:outline-none">
